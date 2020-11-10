@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Session7</string>
+    <string name="star_jokes">Start jokes</string>
+    <string name="title_activity_main3">MainActivity</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_get_me_a_joke">Fetch a joke</string>
+    <string name="menu_folders">Folders</string>
+    <string name="menu_funnyStation">Funny Station</string>
+    <string name="input_folder">Input folder name</string>
+    <string name="create">Create</string>
+    <string name="cancel">Cancel</string>
+    <string name="pick_folder_singular">pick folder</string>
+    <string name="pick_folder">Pick folder(s)</string>
+    <string name="save">Save</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="app_name_funny">Funny Station</string>
+    <string name="no_account_yet_create_one">No Account yet? create One</string>
+    <string name="login">Login</string>
+    <string name="funny_station">FUNNY STATION</string>
+</resources>

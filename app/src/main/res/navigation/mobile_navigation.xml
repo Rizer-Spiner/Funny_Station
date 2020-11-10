@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.session7.ui.home.HomeFragment"
+        android:label="@string/menu_funnyStation"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_get_me_a_joke"
+        android:name="com.example.session7.ui.getMeAJoke.GetMeAJokeFragment"
+        android:label="@string/menu_get_me_a_joke"
+        tools:layout="@layout/fragment_get_me_a_joke" />
+
+    <fragment
+        android:id="@+id/nav_folders"
+        android:name="com.example.session7.ui.folders.FolderFragment"
+        android:label="@string/menu_folders"
+        tools:layout="@layout/fragment_folders" />
+</navigation>
